@@ -10,7 +10,7 @@ FAT-fs is a deployment-ready filesystem I built for my Operating Systems Archite
 ### 1.a. Current State
 FAT-fs is a complete filesystem with all the basic functionality an operating system could need. This primarily means indexing, creating, tracking, managing, and manipulating files, directories, and `file descriptors`. FAT-fs can also defragment files and has support for copy-on-write. Finally, the node structure allows for multiple directory depth, though the implementation required by the class called for a flat filesystem.
 
-The documentation in `fatOperations`, I hear, is to die for.
+The documentation in `fatOperations.h`, I hear, is to die for.
   
 ---
 

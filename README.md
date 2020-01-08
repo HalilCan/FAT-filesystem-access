@@ -1,5 +1,5 @@
 ## Access
-If you have a password, you can follow the accompanying instructions. If you don't, you can contact me. I cannot make even the modified code publicly available because a lot of the current work is based on PennOS and that would be detrimental to the class.
+If you have a password, you can follow the accompanying instructions. If you don't, you can contact me. I cannot make even the modified code publicly available because a lot of the current work is based on PennOS and that would be detrimental to the class. If you are a potential employer and would like to hear more about it, [Professor Boon Thau Loo](boonloo@seas.upenn.edu) (my Operating Systems professor) has good things to say.
 
 # FAT-fs
 ## 1. What
